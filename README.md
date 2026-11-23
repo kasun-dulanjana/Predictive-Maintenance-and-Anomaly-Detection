@@ -1,7 +1,7 @@
 # Predictive Maintenance & Anomaly Detection in Industrial Machinery
 
 A machine learning project that predicts equipment failures and detects anomalies 
-in industrial machinery sensor data — helping reduce downtime and maintenance costs.
+in industrial machinery sensor data for helping reduce downtime and maintenance costs.
 
 ---
 
@@ -75,13 +75,13 @@ in industrial environments.
 | Model | Notes |
 |---|---|
 | Logistic Regression | Strong baseline |
-| XGBoost | Best overall — captures nonlinear patterns |
+| XGBoost | Best overall - captures nonlinear patterns |
 
 #### Multi-Class Classification (Failure Type)
 | Model | Notes |
 |---|---|
 | Decision Tree | Interpretable baseline |
-| Random Forest | Best overall — consistent across all 5 failure types |
+| Random Forest | Best overall - consistent across all 5 failure types |
 
 #### Anomaly Detection (Unsupervised)
 | Model | Notes |
